@@ -1,4 +1,4 @@
-# Upgrad Main Class Practice Notebook with Solutions
+# Main Class Practice Notebook with Solutions
 
 This repository contains a collection of Python exercises and their solutions aimed at mastering fundamental programming concepts.
 
